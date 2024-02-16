@@ -1,4 +1,4 @@
-# Machine learning R 
+# Machine learning in R 
 This repository contains the R markdown implementation of assignments and the final project for the course 'Introduction to Machine Learning in R' by Prof Joseph Yurko.
 
 ## Final project: 
